@@ -2,3 +2,7 @@ person A Code
 Hello world 
 end of code 
 ********************************************
+Perosn B Code 
+Hello Git hub
+end of code
+*******************************************
